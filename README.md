@@ -21,7 +21,7 @@ To install this extension locally for development or testing:
    - Enable Developer Mode by toggling the switch at the top right.
    - Click on "Load unpacked" and select the directory where you've cloned or extracted the extension files.
 
-   ![Loading Extension](path/to/your/screenshot_loading_extension.png)
+   ![Loading Extension](images/icon_16.png)
 
 ## Usage
 
