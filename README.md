@@ -27,7 +27,7 @@ To install this extension locally for development or testing:
 
 Once installed, navigate to `https://www.linkedin.com/` to see the extension in action. The profile pictures should automatically change to the new image specified in the extension's content script.
 
-![Before and After](path/to/your/screenshot_before_after.png)
+![Before and After](images/Linkedin_1.png)
 
 ## Files
 
