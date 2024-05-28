@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "LinkedIn Profile Picture Changer",
+  "version": "1.0",
+  "description": "Automatically changes all LinkedIn profile pictures on the homepage.",
+  "permissions": [
+      "activeTab"
+  ],
+  "icons": {
+    "16": "images/icon_16.png",
+    "48": "images/icon_16.png",
+    "128": "images/icon_16.png"
+  },
+  "content_scripts": [
+      {
+          "matches": ["https://www.linkedin.com/*"],
+          "js": ["content.js"],
+          "run_at": "document_idle"
+      }
+  ],
+  "background": {
+      "service_worker": "background.js"
+  }
+}
