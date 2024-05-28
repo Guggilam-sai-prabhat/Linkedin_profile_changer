@@ -34,7 +34,7 @@ Once installed, navigate to `https://www.linkedin.com/` to see the extension in 
 - `manifest.json`: Contains the setup and configuration of the extension.
 - `content.js`: The content script that replaces the profile pictures.
 - `background.js`: A simple background script for initialization logging.
-- `icon16.png`, `icon48.png`, `icon128.png`: Icons used for the extension in Chrome's toolbar and extension management.
+- `icon_16.png`: Icon used for the extension in Chrome's toolbar and extension management.
 
 ## Contributing
 
